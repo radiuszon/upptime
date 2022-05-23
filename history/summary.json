@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 384,
-    "timeWeek": 384,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "time": 402,
+    "timeDay": 402,
+    "timeWeek": 402,
+    "timeMonth": 402,
+    "timeYear": 402,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1905,
-    "timeDay": 1905,
-    "timeWeek": 1905,
-    "timeMonth": 1905,
-    "timeYear": 1905,
+    "time": 1904,
+    "timeDay": 1904,
+    "timeWeek": 1904,
+    "timeMonth": 1904,
+    "timeYear": 1904,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "GPS Tracker",
+    "url": "http://tracker.ace-energy.co.th",
+    "icon": "https://favicons.githubusercontent.com/tracker.ace-energy.co.th",
+    "slug": "gps-tracker",
+    "status": "down",
+    "uptime": "69.10%",
+    "uptimeDay": "69.10%",
+    "uptimeWeek": "69.10%",
+    "uptimeMonth": "69.10%",
+    "uptimeYear": "69.10%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-05-23": 0
+    }
+  },
+  {
+    "name": "Agro Shop",
+    "url": "https://feedstock.saaa.co.th",
+    "icon": "https://favicons.githubusercontent.com/feedstock.saaa.co.th",
+    "slug": "agro-shop",
+    "status": "down",
+    "uptime": "19.02%",
+    "uptimeDay": "19.02%",
+    "uptimeWeek": "19.02%",
+    "uptimeMonth": "19.02%",
+    "uptimeYear": "19.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-05-23": 0
+    }
   }
 ]
