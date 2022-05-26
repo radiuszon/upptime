@@ -4,18 +4,20 @@
     "url": "https://www.workkami.com",
     "icon": "https://www.workkami.com/favicon.ico",
     "slug": "workkami",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 332,
-    "timeWeek": 330,
-    "timeMonth": 330,
-    "timeYear": 330,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 324,
+    "timeDay": 308,
+    "timeWeek": 324,
+    "timeMonth": 324,
+    "timeYear": 324,
+    "dailyMinutesDown": {
+      "2022-05-26": 1
+    }
   },
   {
     "name": "Zon Application",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-26": 1,
+      "2022-05-26": 1002,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 684
@@ -75,7 +77,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-26": 1,
+      "2022-05-26": 1002,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 684
@@ -134,7 +136,7 @@
     "timeMonth": 1896,
     "timeYear": 1896,
     "dailyMinutesDown": {
-      "2022-05-26": 2,
+      "2022-05-26": 2005,
       "2022-05-25": 2880,
       "2022-05-24": 2880,
       "2022-05-23": 1368
@@ -157,7 +159,7 @@
     "timeMonth": 1896,
     "timeYear": 1896,
     "dailyMinutesDown": {
-      "2022-05-26": 2,
+      "2022-05-26": 2005,
       "2022-05-25": 2880,
       "2022-05-24": 2880,
       "2022-05-23": 1368
