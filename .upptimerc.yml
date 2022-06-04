@@ -9,8 +9,10 @@ sites:
   - name: Zon Application
     url: https://www.zonapplication.com
     icon: https://www.zonapplication.com/favicon.ico
-  - name: GPS Tracker
-    url: http://tracker.ace-energy.co.th
+  - name: GPS Tracker API
+    url: http://tracker.ace-energy.co.th/tracker/api/v1/health
+  - name: GPS Receiver API
+    url: http://tracker.ace-energy.co.th/receiver/api/v1/health
   - name: Agro Shop
     url: https://feedstock.saaa.co.th
   - name: HRIS Dev
