@@ -13,13 +13,19 @@ sites:
     url: http://tracker.ace-energy.co.th/tracker/api/v1/health
     method: GET
     icon: http://tracker.ace-energy.co.th/favicon.ico
+    expectedStatusCodes:
+      - 200
   - name: GPS Receiver API
     url: http://tracker.ace-energy.co.th/receiver/api/v1/health
     method: GET
+    expectedStatusCodes:
+      - 200
     icon: http://tracker.ace-energy.co.th/favicon.ico
   - name: Agro Shop API
     url: https://feedstock.saaa.co.th/api/v1/healthz
     method: GET
+    expectedStatusCodes:
+      - 200
     icon: https://feedstock.saaa.co.th/favicon.ico
   - name: The Kaset
     url: https://www.thekaset.com
