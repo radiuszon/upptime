@@ -98,20 +98,18 @@
     "url": "https://feedstock.saaa.co.th/api/v1/healthz",
     "icon": "https://feedstock.saaa.co.th/favicon.ico",
     "slug": "agro-shop-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1340,
-    "timeDay": 1029,
-    "timeWeek": 1378,
-    "timeMonth": 1340,
-    "timeYear": 1340,
-    "dailyMinutesDown": {
-      "2022-07-16": 0
-    }
+    "time": 1321,
+    "timeDay": 1045,
+    "timeWeek": 1344,
+    "timeMonth": 1321,
+    "timeYear": 1321,
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Kaset",
@@ -138,7 +136,7 @@
     "slug": "",
     "status": "down",
     "uptime": "52.37%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "52.37%",
@@ -148,7 +146,6 @@
     "timeMonth": 2716,
     "timeYear": 2812,
     "dailyMinutesDown": {
-      "2022-07-16": 0,
       "2022-06-13": 831,
       "2022-06-12": 2880,
       "2022-06-11": 2880,
@@ -173,7 +170,7 @@
     "slug": "",
     "status": "down",
     "uptime": "52.37%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "52.37%",
@@ -183,7 +180,6 @@
     "timeMonth": 2716,
     "timeYear": 2812,
     "dailyMinutesDown": {
-      "2022-07-16": 0,
       "2022-06-13": 831,
       "2022-06-12": 2880,
       "2022-06-11": 2880,
