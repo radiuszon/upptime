@@ -1,7 +1,7 @@
 url: https://feedstock.saaa.co.th/api/v1/healthz
-status: down
-code: 503
-responseTime: 1521
-lastUpdated: 2022-09-28T13:45:46.578Z
+status: up
+code: 200
+responseTime: 1454
+lastUpdated: 2022-09-28T14:07:06.634Z
 startTime: Sat Jun 04 2022 10:04:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
