@@ -23,17 +23,17 @@ sites:
     icon: https://www.acesolar.co.th/favicon.ico
   - name: GPS Tracker API
     url: http://tracker.ace-energy.co.th/tracker/api/v1/health
+    __dangerous__insecure: true
     method: GET
     icon: http://tracker.ace-energy.co.th/favicon.ico
     expectedStatusCodes:
       - 200
-      - 404
   - name: GPS Receiver API
     url: http://tracker.ace-energy.co.th/receiver/api/v1/health
+    __dangerous__insecure: true
     method: GET
     expectedStatusCodes:
       - 200
-      - 404
     icon: http://tracker.ace-energy.co.th/favicon.ico
   - name: Agro Shop API
     url: https://feedstock.saaa.co.th/api/v1/healthz
