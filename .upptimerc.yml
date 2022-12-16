@@ -6,41 +6,93 @@ sites:
   - name: Workkami
     url: https://www.workkami.com
     icon: https://www.workkami.com/favicon.ico
+
+  - name: (Admin)Workkami
+    url: https://admin.workkami.com
+    icon: http://www.google.com/s2/favicons?domain=https://admin.workkami.com
+  
   - name: Zon Application
     url: https://www.zonapplication.com
     icon: https://www.zonapplication.com/favicon.ico
+
+  - name: (Admin) Zon Application
+    url: https://www.zonapplication.com/admin
+    icon: http://www.google.com/s2/favicons?domain=https://www.zonapplication.com//admin
+  
   - name: The Kaset
     url: https://www.thekaset.com
-    icon: https://www.thekaset.com/favicon.ico
+    icon: http://www.google.com/s2/favicons?domain=https://www.thekaset.com
+  
   - name: Tonkla Shaiyo
     url: https://www.tonklashaiyo.com
     icon: https://www.tonklashaiyo.com/favicon.ico
+
+  - name: (Admin) Tonkla Shaiyo
+    url: https://admin.tonklashaiyo.com/admin/login
+    icon: http://www.google.com/s2/favicons?domain=https://admin.tonklashaiyo.com/admin/login
+  
   - name: ACE Carbon Ventures
-    url: https://acecarbonventures.com
+    url: https://www.acecarbonventures.com
     icon: http://www.google.com/s2/favicons?domain=https://www.acecarbonventures.com
+  
   - name: ACE Solar
     url: https://www.acesolar.co.th
-    icon: https://www.acesolar.co.th/favicon.ico
-  - name: GPS Tracker API
-    url: http://tracker.ace-energy.co.th/tracker/api/v1/health
-    __dangerous__insecure: true
-    method: GET
-    icon: http://tracker.ace-energy.co.th/favicon.ico
-    expectedStatusCodes:
-      - 200
-  - name: GPS Receiver API
-    url: http://tracker.ace-energy.co.th/receiver/api/v1/health
-    __dangerous__insecure: true
-    method: GET
-    expectedStatusCodes:
-      - 200
-    icon: http://tracker.ace-energy.co.th/favicon.ico
+    icon: http://www.google.com/s2/favicons?domain=https://www.acesolar.co.th
+
+  - name: (Admin) ACE Solar
+    url: https://admin.acesolar.co.th
+    icon: http://www.google.com/s2/favicons?domain=https://admin.acesolar.co.th
+  
+  - name: Triple A Hardboard
+    url: https://www.triplea-hardboard.com
+    icon: http://www.google.com/s2/favicons?domain=https://www.triplea-hardboard.com
+
+  - name: Triple A Plywood
+    url: https://www.triplea-plywood.com
+    icon: http://www.google.com/s2/favicons?domain=https://www.triplea-plywood.com
+
+  - name: Woodchip
+    url: https://www.woodchip.saaa.co.th
+    icon: http://www.google.com/s2/favicons?domain=https://www.woodchip.saaa.co.th
+
+  - name: Bring Back The Forest
+    url: https://www.bringbacktheforest.org
+    icon: http://www.google.com/s2/favicons?domain=https://www.bringbacktheforest.org
+
+  - name: (Admin) Bring Back The Forest
+    url: https://admin.bringbacktheforest.org
+    icon: http://www.google.com/s2/favicons?domain=https://admin.bringbacktheforest.org
+
+  # - name: GPS Tracker API
+  #   url: http://tracker.ace-energy.co.th/tracker/api/v1/health
+  #   __dangerous__insecure: true
+  #   method: GET
+  #   icon: http://tracker.ace-energy.co.th/favicon.ico
+  #   expectedStatusCodes:
+  #     - 200
+
+  # - name: GPS Receiver API
+  #   url: http://tracker.ace-energy.co.th/receiver/api/v1/health
+  #   __dangerous__insecure: true
+  #   method: GET
+  #   expectedStatusCodes:
+  #     - 200
+  #   icon: http://tracker.ace-energy.co.th/favicon.ico
+
   - name: Agro Shop API
     url: https://feedstock.saaa.co.th/api/v1/healthz
     method: GET
     expectedStatusCodes:
       - 200
     icon: https://feedstock.saaa.co.th/favicon.ico
+
+  - name: (Admin) Agro Shop
+    url: https://feedstock.saaa.co.th
+    icon: http://www.google.com/s2/favicons?domain=https://feedstock.saaa.co.th
+
+  - name: Agro Shop
+    url: https://feedstockapp.saaa.co.th
+    icon: http://www.google.com/s2/favicons?domain=https://feedstockapp.saaa.co.th
 
 status-website:
 #   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -50,7 +102,7 @@ status-website:
 #   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://radiuszon.github.io/upptime/). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
 #   navbar:
 #     - title: Status
 #       href: /
