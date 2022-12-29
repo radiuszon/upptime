@@ -18,7 +18,7 @@ on:
 jobs:
   release:
     name: Setup Upptime
-    runs-on: self-hosted
+    runs-on: radiuszon
     steps:
       - name: Checkout
         uses: actions/checkout@v3
