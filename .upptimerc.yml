@@ -63,6 +63,9 @@ sites:
     url: https://admin.bringbacktheforest.org
     icon: http://www.google.com/s2/favicons?domain=https://admin.bringbacktheforest.org
 
+  - name: GPS Tracker web
+    url: http://tracker.ace-energy.co.th/login
+
   - name: GPS Tracker API
     url: http://tracker.ace-energy.co.th/tracker/api/v1/health
     __dangerous__insecure: true
