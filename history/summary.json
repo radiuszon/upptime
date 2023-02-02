@@ -130,19 +130,19 @@
     "url": "https://www.acecarbonventures.com",
     "icon": "http://www.google.com/s2/favicons?domain=https://www.acecarbonventures.com",
     "slug": "ace-carbon-ventures",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 524,
-    "timeDay": 308,
-    "timeWeek": 957,
-    "timeMonth": 617,
-    "timeYear": 524,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 586,
+    "timeDay": 1434,
+    "timeWeek": 1133,
+    "timeMonth": 711,
+    "timeYear": 586,
     "dailyMinutesDown": {
-      "2023-02-02": 6
+      "2023-02-02": 2
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://www.acesolar.co.th",
     "icon": "http://www.google.com/s2/favicons?domain=https://www.acesolar.co.th",
     "slug": "ace-solar",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1099,
-    "timeDay": 904,
-    "timeWeek": 1549,
-    "timeMonth": 1184,
-    "timeYear": 1099,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1131,
+    "timeDay": 1542,
+    "timeWeek": 1636,
+    "timeMonth": 1230,
+    "timeYear": 1131,
     "dailyMinutesDown": {
-      "2023-02-02": 6
+      "2023-02-02": 2
     }
   },
   {
@@ -170,19 +170,19 @@
     "url": "https://admin.acesolar.co.th",
     "icon": "http://www.google.com/s2/favicons?domain=https://admin.acesolar.co.th",
     "slug": "admin-ace-solar",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 882,
-    "timeDay": 722,
-    "timeWeek": 902,
-    "timeMonth": 902,
-    "timeYear": 882,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 878,
+    "timeDay": 697,
+    "timeWeek": 888,
+    "timeMonth": 896,
+    "timeYear": 878,
     "dailyMinutesDown": {
-      "2023-02-02": 6
+      "2023-02-02": 2
     }
   },
   {
@@ -292,7 +292,7 @@
     "timeMonth": 427,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2023-02-02": 1286,
+      "2023-02-02": 1298,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
@@ -346,7 +346,7 @@
     "timeMonth": 416,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2023-02-02": 1286,
+      "2023-02-02": 1298,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
@@ -410,7 +410,7 @@
     "timeMonth": 414,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2023-02-02": 1286,
+      "2023-02-02": 1298,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
