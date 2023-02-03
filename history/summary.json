@@ -138,7 +138,7 @@
     "uptimeYear": "99.96%",
     "time": 694,
     "timeDay": 2233,
-    "timeWeek": 1062,
+    "timeWeek": 1107,
     "timeMonth": 873,
     "timeYear": 694,
     "dailyMinutesDown": {
@@ -158,7 +158,7 @@
     "uptimeYear": "99.96%",
     "time": 1120,
     "timeDay": 1284,
-    "timeWeek": 1087,
+    "timeWeek": 1095,
     "timeMonth": 1210,
     "timeYear": 1120,
     "dailyMinutesDown": {
@@ -190,19 +190,19 @@
     "url": "https://www.triplea-hardboard.com",
     "icon": "http://www.google.com/s2/favicons?domain=https://www.triplea-hardboard.com",
     "slug": "triple-a-hardboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 235,
-    "timeWeek": 277,
-    "timeMonth": 419,
-    "timeYear": 382,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 378,
+    "timeDay": 218,
+    "timeWeek": 267,
+    "timeMonth": 412,
+    "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-02-03": 2
+      "2023-02-03": 11
     }
   },
   {
@@ -210,19 +210,19 @@
     "url": "https://www.triplea-plywood.com",
     "icon": "http://www.google.com/s2/favicons?domain=https://www.triplea-plywood.com",
     "slug": "triple-a-plywood",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 233,
-    "timeWeek": 277,
-    "timeMonth": 317,
-    "timeYear": 325,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 322,
+    "timeDay": 208,
+    "timeWeek": 265,
+    "timeMonth": 313,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2023-02-03": 2
+      "2023-02-03": 11
     }
   },
   {
@@ -230,19 +230,19 @@
     "url": "https://www.woodchip.saaa.co.th",
     "icon": "http://www.google.com/s2/favicons?domain=https://www.woodchip.saaa.co.th",
     "slug": "woodchip",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 982,
-    "timeDay": 923,
-    "timeWeek": 846,
-    "timeMonth": 899,
-    "timeYear": 982,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 974,
+    "timeDay": 763,
+    "timeWeek": 816,
+    "timeMonth": 890,
+    "timeYear": 974,
     "dailyMinutesDown": {
-      "2023-02-03": 2
+      "2023-02-03": 11
     }
   },
   {
@@ -298,7 +298,7 @@
     "timeMonth": 427,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2023-02-03": 587,
+      "2023-02-03": 598,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -353,7 +353,7 @@
     "timeMonth": 416,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2023-02-03": 587,
+      "2023-02-03": 598,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 414,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2023-02-03": 587,
+      "2023-02-03": 598,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
