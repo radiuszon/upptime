@@ -40,11 +40,11 @@
     "url": "https://www.zonapplication.com",
     "icon": "https://www.zonapplication.com/favicon.ico",
     "slug": "zon-application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 836,
     "timeDay": 196,
@@ -52,7 +52,7 @@
     "timeMonth": 513,
     "timeYear": 836,
     "dailyMinutesDown": {
-      "2023-02-22": 30
+      "2023-02-22": 34
     }
   },
   {
@@ -60,11 +60,11 @@
     "url": "https://www.zonapplication.com/admin",
     "icon": "http://www.google.com/s2/favicons?domain=https://www.zonapplication.com//admin",
     "slug": "admin-zon-application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 324,
     "timeDay": 69,
@@ -72,7 +72,7 @@
     "timeMonth": 235,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2023-02-22": 30
+      "2023-02-22": 33
     }
   },
   {
@@ -134,10 +134,10 @@
     "url": "https://www.acecarbonventures.com",
     "icon": "http://www.google.com/s2/favicons?domain=https://www.acecarbonventures.com",
     "slug": "ace-carbon-ventures",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 569,
@@ -146,6 +146,7 @@
     "timeMonth": 745,
     "timeYear": 569,
     "dailyMinutesDown": {
+      "2023-02-22": 3,
       "2023-02-03": 30
     }
   },
@@ -232,10 +233,10 @@
     "url": "https://www.woodchip.saaa.co.th",
     "icon": "http://www.google.com/s2/favicons?domain=https://www.woodchip.saaa.co.th",
     "slug": "woodchip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1090,
@@ -243,7 +244,9 @@
     "timeWeek": 1573,
     "timeMonth": 1183,
     "timeYear": 1090,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-22": 1
+    }
   },
   {
     "name": "Bring Back The Forest",
@@ -287,11 +290,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.ace-energy.co.th.ico",
     "slug": "gps-tracker-web",
     "status": "up",
-    "uptime": "30.66%",
+    "uptime": "30.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.68%",
-    "uptimeYear": "30.66%",
+    "uptimeMonth": "50.74%",
+    "uptimeYear": "30.68%",
     "time": 199,
     "timeDay": 9,
     "timeWeek": 186,
@@ -345,11 +348,11 @@
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-tracker-api",
     "status": "up",
-    "uptime": "14.22%",
+    "uptime": "14.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.68%",
-    "uptimeYear": "14.22%",
+    "uptimeMonth": "50.74%",
+    "uptimeYear": "14.25%",
     "time": 199,
     "timeDay": 2,
     "timeWeek": 180,
@@ -413,11 +416,11 @@
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-receiver-api",
     "status": "up",
-    "uptime": "14.23%",
+    "uptime": "14.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.68%",
-    "uptimeYear": "14.23%",
+    "uptimeMonth": "50.74%",
+    "uptimeYear": "14.25%",
     "time": 198,
     "timeDay": 3,
     "timeWeek": 179,
