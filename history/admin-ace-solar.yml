@@ -1,7 +1,7 @@
 url: https://admin.acesolar.co.th
-status: up
-code: 200
-responseTime: 119
-lastUpdated: 2023-02-25T18:45:16.536Z
+status: down
+code: 502
+responseTime: 117
+lastUpdated: 2023-02-25T22:29:13.884Z
 startTime: Fri Dec 16 2022 10:36:42 GMT+0700 (Indochina Time)
 generator: Upptime <https://github.com/upptime/upptime>
