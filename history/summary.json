@@ -182,19 +182,19 @@
     "url": "https://admin.acesolar.co.th",
     "icon": "http://www.google.com/s2/favicons?domain=https://admin.acesolar.co.th",
     "slug": "admin-ace-solar",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
-    "time": 575,
-    "timeDay": 130,
-    "timeWeek": 132,
-    "timeMonth": 137,
-    "timeYear": 575,
+    "time": 573,
+    "timeDay": 159,
+    "timeWeek": 139,
+    "timeMonth": 138,
+    "timeYear": 573,
     "dailyMinutesDown": {
-      "2023-03-30": 1,
+      "2023-03-30": 6,
       "2023-02-03": 30
     }
   },
@@ -252,18 +252,16 @@
     "slug": "woodchip",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1330,
     "timeDay": 1548,
     "timeWeek": 2487,
     "timeMonth": 1843,
     "timeYear": 1330,
-    "dailyMinutesDown": {
-      "2023-03-30": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bring Back The Forest",
@@ -505,9 +503,9 @@
     "slug": "agro-shop-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1112,
     "timeDay": 2605,
@@ -515,7 +513,6 @@
     "timeMonth": 298,
     "timeYear": 1112,
     "dailyMinutesDown": {
-      "2023-03-30": 6,
       "2023-02-22": 27
     }
   },
@@ -526,18 +523,16 @@
     "slug": "admin-agro-shop",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 47,
     "timeWeek": 40,
     "timeMonth": 37,
     "timeYear": 143,
-    "dailyMinutesDown": {
-      "2023-03-30": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Agro Shop",
