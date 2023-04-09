@@ -88,19 +88,19 @@
     "url": "https://www.thekaset.com",
     "icon": "http://www.google.com/s2/favicons?domain=https://www.thekaset.com",
     "slug": "the-kaset",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1074,
-    "timeDay": 5351,
-    "timeWeek": 2536,
-    "timeMonth": 2095,
-    "timeYear": 1074,
+    "time": 1076,
+    "timeDay": 4103,
+    "timeWeek": 2433,
+    "timeMonth": 2080,
+    "timeYear": 1076,
     "dailyMinutesDown": {
-      "2023-04-09": 0
+      "2023-04-09": 5
     }
   },
   {
