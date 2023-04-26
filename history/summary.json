@@ -435,19 +435,19 @@
     "url": "http://tracker.ace-energy.co.th/receiver/api/v1/health",
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-receiver-api",
-    "status": "up",
-    "uptime": "97.63%",
-    "uptimeDay": "69.41%",
+    "status": "down",
+    "uptime": "97.66%",
+    "uptimeDay": "69.36%",
     "uptimeWeek": "81.35%",
-    "uptimeMonth": "90.82%",
-    "uptimeYear": "97.63%",
+    "uptimeMonth": "90.94%",
+    "uptimeYear": "97.66%",
     "time": 6510,
     "timeDay": 10734,
     "timeWeek": 8398,
     "timeMonth": 7255,
     "timeYear": 6510,
     "dailyMinutesDown": {
-      "2023-04-27": 260,
+      "2023-04-27": 261,
       "2023-04-26": 218,
       "2023-04-25": 128,
       "2023-04-24": 441,
@@ -462,7 +462,7 @@
       "2023-04-14": 342,
       "2023-04-13": 422,
       "2023-04-12": 600,
-      "2023-04-11": 151
+      "2023-04-11": 96
     }
   },
   {
