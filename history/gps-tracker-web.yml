@@ -1,7 +1,7 @@
 url: http://tracker.ace-energy.co.th/login
-status: down
-code: 503
-responseTime: 552
-lastUpdated: 2023-05-02T07:35:03.667Z
+status: up
+code: 200
+responseTime: 1004
+lastUpdated: 2023-05-02T07:40:36.974Z
 startTime: Fri Dec 30 2022 10:06:51 GMT+0700 (Indochina Time)
 generator: Upptime <https://github.com/upptime/upptime>
