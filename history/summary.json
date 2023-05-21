@@ -31,7 +31,7 @@
     "time": 201,
     "timeDay": 150,
     "timeWeek": 140,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 201,
     "dailyMinutesDown": {}
   },
@@ -97,7 +97,7 @@
     "time": 1183,
     "timeDay": 1850,
     "timeWeek": 1810,
-    "timeMonth": 1742,
+    "timeMonth": 1741,
     "timeYear": 1183,
     "dailyMinutesDown": {}
   },
@@ -115,7 +115,7 @@
     "time": 470,
     "timeDay": 171,
     "timeWeek": 181,
-    "timeMonth": 204,
+    "timeMonth": 202,
     "timeYear": 470,
     "dailyMinutesDown": {}
   },
@@ -133,7 +133,7 @@
     "time": 442,
     "timeDay": 175,
     "timeWeek": 193,
-    "timeMonth": 201,
+    "timeMonth": 198,
     "timeYear": 442,
     "dailyMinutesDown": {}
   },
@@ -151,7 +151,7 @@
     "time": 659,
     "timeDay": 111,
     "timeWeek": 139,
-    "timeMonth": 1115,
+    "timeMonth": 1134,
     "timeYear": 659,
     "dailyMinutesDown": {
       "2023-04-24": 16,
@@ -214,7 +214,7 @@
     "time": 746,
     "timeDay": 939,
     "timeWeek": 925,
-    "timeMonth": 921,
+    "timeMonth": 923,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2023-02-22": 28
@@ -234,7 +234,7 @@
     "time": 983,
     "timeDay": 1604,
     "timeWeek": 1352,
-    "timeMonth": 1345,
+    "timeMonth": 1349,
     "timeYear": 983,
     "dailyMinutesDown": {
       "2023-03-21": 633,
@@ -261,7 +261,7 @@
     "time": 1441,
     "timeDay": 1733,
     "timeWeek": 1733,
-    "timeMonth": 1691,
+    "timeMonth": 1696,
     "timeYear": 1441,
     "dailyMinutesDown": {}
   },
@@ -279,7 +279,7 @@
     "time": 443,
     "timeDay": 179,
     "timeWeek": 174,
-    "timeMonth": 199,
+    "timeMonth": 201,
     "timeYear": 443,
     "dailyMinutesDown": {}
   },
@@ -297,7 +297,7 @@
     "time": 393,
     "timeDay": 215,
     "timeWeek": 192,
-    "timeMonth": 200,
+    "timeMonth": 201,
     "timeYear": 393,
     "dailyMinutesDown": {}
   },
@@ -307,15 +307,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.ace-energy.co.th.ico",
     "slug": "gps-tracker-web",
     "status": "up",
-    "uptime": "73.61%",
+    "uptime": "73.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.61%",
+    "uptimeYear": "73.62%",
     "time": 418,
     "timeDay": 80,
     "timeWeek": 232,
-    "timeMonth": 230,
+    "timeMonth": 234,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2023-03-31": 17,
@@ -366,15 +366,15 @@
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-tracker-api",
     "status": "up",
-    "uptime": "67.03%",
+    "uptime": "67.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.03%",
+    "uptimeYear": "67.04%",
     "time": 215,
     "timeDay": 33,
     "timeWeek": 126,
-    "timeMonth": 122,
+    "timeMonth": 125,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2023-03-31": 417,
@@ -436,18 +436,18 @@
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-receiver-api",
     "status": "up",
-    "uptime": "97.88%",
-    "uptimeDay": "73.16%",
-    "uptimeWeek": "75.78%",
-    "uptimeMonth": "90.11%",
-    "uptimeYear": "97.88%",
+    "uptime": "97.85%",
+    "uptimeDay": "73.35%",
+    "uptimeWeek": "76.36%",
+    "uptimeMonth": "89.98%",
+    "uptimeYear": "97.85%",
     "time": 6921,
     "timeDay": 8494,
     "timeWeek": 7468,
     "timeMonth": 7548,
     "timeYear": 6921,
     "dailyMinutesDown": {
-      "2023-05-21": 77,
+      "2023-05-21": 74,
       "2023-05-20": 315,
       "2023-05-19": 190,
       "2023-05-18": 412,
@@ -460,7 +460,7 @@
       "2023-05-11": 383,
       "2023-05-10": 152,
       "2023-05-09": 343,
-      "2023-05-08": 113
+      "2023-05-08": 174
     }
   },
   {
