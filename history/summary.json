@@ -26,9 +26,9 @@
     "slug": "admin-workkami",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "69.85%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "69.25%",
+    "uptimeWeek": "95.61%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "99.82%",
     "time": 259,
     "timeDay": 4654,
@@ -36,7 +36,7 @@
     "timeMonth": 468,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2023-06-02": 434
+      "2023-06-02": 443
     }
   },
   {
@@ -439,19 +439,19 @@
     "url": "http://tracker.ace-energy.co.th/receiver/api/v1/health",
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-receiver-api",
-    "status": "up",
-    "uptime": "97.79%",
-    "uptimeDay": "75.80%",
-    "uptimeWeek": "73.21%",
-    "uptimeMonth": "88.78%",
-    "uptimeYear": "97.79%",
-    "time": 7073,
-    "timeDay": 8433,
-    "timeWeek": 7382,
-    "timeMonth": 7411,
-    "timeYear": 7073,
+    "status": "down",
+    "uptime": "97.80%",
+    "uptimeDay": "75.74%",
+    "uptimeWeek": "73.20%",
+    "uptimeMonth": "88.83%",
+    "uptimeYear": "97.80%",
+    "time": 7079,
+    "timeDay": 8763,
+    "timeWeek": 7427,
+    "timeMonth": 7422,
+    "timeYear": 7079,
     "dailyMinutesDown": {
-      "2023-06-02": 270,
+      "2023-06-02": 271,
       "2023-06-01": 476,
       "2023-05-31": 251,
       "2023-05-30": 229,
@@ -463,7 +463,7 @@
       "2023-05-24": 288,
       "2023-05-23": 375,
       "2023-05-22": 630,
-      "2023-05-21": 327
+      "2023-05-21": 305
     }
   },
   {
