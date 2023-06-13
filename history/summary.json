@@ -36,7 +36,7 @@
     "timeMonth": 613,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2023-06-13": 419,
+      "2023-06-13": 421,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
@@ -442,8 +442,8 @@
     "slug": "gps-receiver-api",
     "status": "down",
     "uptime": "98.00%",
-    "uptimeDay": "66.13%",
-    "uptimeWeek": "73.92%",
+    "uptimeDay": "65.97%",
+    "uptimeWeek": "73.89%",
     "uptimeMonth": "89.15%",
     "uptimeYear": "98.00%",
     "time": 7116,
@@ -452,7 +452,7 @@
     "timeMonth": 7466,
     "timeYear": 7116,
     "dailyMinutesDown": {
-      "2023-06-13": 178,
+      "2023-06-13": 180,
       "2023-06-12": 320,
       "2023-06-11": 495,
       "2023-06-10": 477,
