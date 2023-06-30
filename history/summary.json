@@ -13,7 +13,7 @@
     "time": 304,
     "timeDay": 180,
     "timeWeek": 173,
-    "timeMonth": 458,
+    "timeMonth": 469,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2023-06-02": 238
@@ -33,7 +33,7 @@
     "time": 249,
     "timeDay": 154,
     "timeWeek": 138,
-    "timeMonth": 577,
+    "timeMonth": 598,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2023-06-15": 595,
@@ -114,7 +114,7 @@
     "time": 1244,
     "timeDay": 1775,
     "timeWeek": 1733,
-    "timeMonth": 1738,
+    "timeMonth": 1728,
     "timeYear": 1260,
     "dailyMinutesDown": {}
   },
@@ -132,7 +132,7 @@
     "time": 418,
     "timeDay": 260,
     "timeWeek": 207,
-    "timeMonth": 207,
+    "timeMonth": 205,
     "timeYear": 418,
     "dailyMinutesDown": {}
   },
@@ -150,7 +150,7 @@
     "time": 394,
     "timeDay": 242,
     "timeWeek": 196,
-    "timeMonth": 211,
+    "timeMonth": 212,
     "timeYear": 394,
     "dailyMinutesDown": {}
   },
@@ -168,7 +168,7 @@
     "time": 594,
     "timeDay": 162,
     "timeWeek": 154,
-    "timeMonth": 150,
+    "timeMonth": 148,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2023-04-24": 16,
@@ -231,7 +231,7 @@
     "time": 834,
     "timeDay": 924,
     "timeWeek": 872,
-    "timeMonth": 1251,
+    "timeMonth": 1262,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2023-02-22": 28
@@ -243,15 +243,15 @@
     "icon": "http://www.google.com/s2/favicons?domain=https://www.triplea-plywood.com",
     "slug": "triple-a-plywood",
     "status": "up",
-    "uptime": "96.69%",
+    "uptime": "96.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.69%",
+    "uptimeYear": "96.70%",
     "time": 1089,
     "timeDay": 1434,
     "timeWeek": 1224,
-    "timeMonth": 1573,
+    "timeMonth": 1584,
     "timeYear": 1089,
     "dailyMinutesDown": {
       "2023-03-21": 633,
@@ -278,7 +278,7 @@
     "time": 1593,
     "timeDay": 3742,
     "timeWeek": 3432,
-    "timeMonth": 2370,
+    "timeMonth": 2396,
     "timeYear": 1593,
     "dailyMinutesDown": {}
   },
@@ -296,7 +296,7 @@
     "time": 393,
     "timeDay": 233,
     "timeWeek": 186,
-    "timeMonth": 190,
+    "timeMonth": 178,
     "timeYear": 393,
     "dailyMinutesDown": {}
   },
@@ -314,7 +314,7 @@
     "time": 353,
     "timeDay": 293,
     "timeWeek": 204,
-    "timeMonth": 186,
+    "timeMonth": 185,
     "timeYear": 353,
     "dailyMinutesDown": {}
   },
@@ -332,7 +332,7 @@
     "time": 360,
     "timeDay": 728,
     "timeWeek": 380,
-    "timeMonth": 216,
+    "timeMonth": 220,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2023-03-31": 17,
@@ -383,15 +383,15 @@
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-tracker-api",
     "status": "up",
-    "uptime": "74.38%",
+    "uptime": "74.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.24%",
+    "uptimeYear": "79.25%",
     "time": 189,
     "timeDay": 306,
     "timeWeek": 275,
-    "timeMonth": 123,
+    "timeMonth": 126,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2023-03-31": 417,
@@ -442,18 +442,19 @@
     "url": "http://tracker.ace-energy.co.th/receiver/api/v1/health",
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-receiver-api",
-    "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "58.46%",
-    "uptimeWeek": "76.27%",
-    "uptimeMonth": "88.96%",
-    "uptimeYear": "98.16%",
-    "time": 7301,
-    "timeDay": 10524,
-    "timeWeek": 8611,
-    "timeMonth": 7715,
-    "timeYear": 7301,
+    "status": "down",
+    "uptime": "98.19%",
+    "uptimeDay": "64.01%",
+    "uptimeWeek": "76.26%",
+    "uptimeMonth": "89.14%",
+    "uptimeYear": "98.19%",
+    "time": 7305,
+    "timeDay": 10790,
+    "timeWeek": 8712,
+    "timeMonth": 7780,
+    "timeYear": 7305,
     "dailyMinutesDown": {
+      "2023-07-01": 1,
       "2023-06-30": 590,
       "2023-06-29": 171,
       "2023-06-28": 527,
@@ -466,8 +467,7 @@
       "2023-06-21": 230,
       "2023-06-20": 563,
       "2023-06-19": 567,
-      "2023-06-18": 496,
-      "2023-06-17": 43
+      "2023-06-18": 456
     }
   },
   {
@@ -484,7 +484,7 @@
     "time": 816,
     "timeDay": 154,
     "timeWeek": 167,
-    "timeMonth": 135,
+    "timeMonth": 136,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2023-02-22": 27
