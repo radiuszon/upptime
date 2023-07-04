@@ -28,7 +28,7 @@
     "uptime": "93.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.58%",
+    "uptimeMonth": "64.64%",
     "uptimeYear": "93.53%",
     "time": 247,
     "timeDay": 116,
@@ -269,19 +269,19 @@
     "url": "https://www.woodchip.saaa.co.th",
     "icon": "http://www.google.com/s2/favicons?domain=https://www.woodchip.saaa.co.th",
     "slug": "woodchip",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "88.44%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.94%",
-    "time": 1620,
-    "timeDay": 2872,
-    "timeWeek": 3260,
-    "timeMonth": 2586,
-    "timeYear": 1620,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "86.69%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.93%",
+    "time": 1644,
+    "timeDay": 4640,
+    "timeWeek": 3653,
+    "timeMonth": 2713,
+    "timeYear": 1644,
     "dailyMinutesDown": {
-      "2023-07-04": 166
+      "2023-07-04": 192
     }
   },
   {
@@ -385,7 +385,7 @@
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-tracker-api",
     "status": "up",
-    "uptime": "74.88%",
+    "uptime": "74.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -453,7 +453,7 @@
     "time": 7320,
     "timeDay": 7134,
     "timeWeek": 8148,
-    "timeMonth": 7882,
+    "timeMonth": 7871,
     "timeYear": 7320,
     "dailyMinutesDown": {
       "2023-07-04": 234,
@@ -518,10 +518,10 @@
     "icon": "http://www.google.com/s2/favicons?domain=https://feedstockapp.saaa.co.th",
     "slug": "agro-shop",
     "status": "down",
-    "uptime": "97.91%",
-    "uptimeDay": "88.86%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.63%",
+    "uptime": "97.90%",
+    "uptimeDay": "87.03%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.94%",
     "time": 472,
     "timeDay": 435,
@@ -529,7 +529,7 @@
     "timeMonth": 195,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2023-07-04": 160
+      "2023-07-04": 187
     }
   }
 ]
