@@ -28,7 +28,7 @@
     "uptime": "93.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.20%",
+    "uptimeMonth": "64.21%",
     "uptimeYear": "93.52%",
     "time": 247,
     "timeDay": 116,
@@ -271,9 +271,9 @@
     "slug": "woodchip",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1620,
     "timeDay": 2872,
@@ -281,7 +281,7 @@
     "timeMonth": 2586,
     "timeYear": 1620,
     "dailyMinutesDown": {
-      "2023-07-04": 2
+      "2023-07-04": 7
     }
   },
   {
@@ -447,8 +447,8 @@
     "status": "down",
     "uptime": "98.33%",
     "uptimeDay": "71.23%",
-    "uptimeWeek": "70.37%",
-    "uptimeMonth": "89.78%",
+    "uptimeWeek": "70.31%",
+    "uptimeMonth": "89.77%",
     "uptimeYear": "98.33%",
     "time": 7323,
     "timeDay": 7611,
@@ -456,7 +456,7 @@
     "timeMonth": 7877,
     "timeYear": 7323,
     "dailyMinutesDown": {
-      "2023-07-04": 213,
+      "2023-07-04": 219,
       "2023-07-03": 417,
       "2023-07-02": 538,
       "2023-07-01": 450,
@@ -478,9 +478,9 @@
     "slug": "agro-shop-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 808,
     "timeDay": 125,
@@ -488,7 +488,7 @@
     "timeMonth": 134,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2023-07-04": 26,
+      "2023-07-04": 32,
       "2023-02-22": 27
     }
   },
@@ -499,9 +499,9 @@
     "slug": "admin-agro-shop",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 109,
     "timeDay": 38,
@@ -509,7 +509,7 @@
     "timeMonth": 39,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2023-07-04": 26
+      "2023-07-04": 32
     }
   },
   {
@@ -517,10 +517,10 @@
     "url": "https://feedstockapp.saaa.co.th",
     "icon": "http://www.google.com/s2/favicons?domain=https://feedstockapp.saaa.co.th",
     "slug": "agro-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "97.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 472,
@@ -528,6 +528,8 @@
     "timeWeek": 244,
     "timeMonth": 195,
     "timeYear": 472,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-04": 1
+    }
   }
 ]
