@@ -29,7 +29,7 @@
     "uptime": "93.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.48%",
-    "uptimeMonth": "93.52%",
+    "uptimeMonth": "93.60%",
     "uptimeYear": "93.75%",
     "time": 242,
     "timeDay": 128,
@@ -60,7 +60,7 @@
     "icon": "https://www.zonapplication.com/favicon.ico",
     "slug": "zon-application",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -447,11 +447,11 @@
     "url": "http://tracker.ace-energy.co.th/receiver/api/v1/health",
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-receiver-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "93.93%",
-    "uptimeWeek": "83.70%",
-    "uptimeMonth": "90.48%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "83.69%",
+    "uptimeMonth": "90.53%",
     "uptimeYear": "98.52%",
     "time": 7328,
     "timeDay": 5737,
@@ -459,7 +459,7 @@
     "timeMonth": 7841,
     "timeYear": 7328,
     "dailyMinutesDown": {
-      "2023-07-13": 55,
+      "2023-07-13": 56,
       "2023-07-12": 161,
       "2023-07-11": 484,
       "2023-07-10": 71,
@@ -472,7 +472,7 @@
       "2023-07-03": 417,
       "2023-07-02": 538,
       "2023-07-01": 450,
-      "2023-06-30": 130
+      "2023-06-30": 107
     }
   },
   {
