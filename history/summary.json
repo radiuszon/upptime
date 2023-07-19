@@ -4,10 +4,10 @@
     "url": "https://www.workkami.com",
     "icon": "https://www.workkami.com/favicon.ico",
     "slug": "workkami",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.93%",
     "time": 302,
@@ -16,6 +16,7 @@
     "timeMonth": 239,
     "timeYear": 297,
     "dailyMinutesDown": {
+      "2023-07-20": 1,
       "2023-07-12": 154,
       "2023-06-02": 238
     }
@@ -448,18 +449,17 @@
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-receiver-api",
     "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "95.76%",
-    "uptimeMonth": "90.66%",
-    "uptimeYear": "98.59%",
+    "uptime": "98.56%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "90.43%",
+    "uptimeYear": "98.56%",
     "time": 7291,
     "timeDay": 3887,
     "timeWeek": 6766,
     "timeMonth": 7517,
     "timeYear": 7291,
     "dailyMinutesDown": {
-      "2023-07-20": 6,
       "2023-07-19": 23,
       "2023-07-18": 23,
       "2023-07-17": 20,
@@ -478,7 +478,7 @@
       "2023-07-04": 314,
       "2023-07-03": 417,
       "2023-07-02": 538,
-      "2023-07-01": 131
+      "2023-07-01": 235
     }
   },
   {
