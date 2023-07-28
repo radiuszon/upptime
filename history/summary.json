@@ -448,18 +448,17 @@
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-receiver-api",
     "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "92.79%",
-    "uptimeWeek": "96.16%",
-    "uptimeMonth": "91.13%",
-    "uptimeYear": "98.71%",
+    "uptime": "98.70%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "91.06%",
+    "uptimeYear": "98.70%",
     "time": 7257,
     "timeDay": 6992,
     "timeWeek": 6624,
     "timeMonth": 7243,
     "timeYear": 7257,
     "dailyMinutesDown": {
-      "2023-07-28": 5,
       "2023-07-27": 99,
       "2023-07-26": 20,
       "2023-07-25": 51,
@@ -485,7 +484,7 @@
       "2023-07-05": 505,
       "2023-07-04": 314,
       "2023-07-03": 417,
-      "2023-07-02": 45
+      "2023-07-02": 83
     }
   },
   {
