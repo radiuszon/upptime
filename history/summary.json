@@ -107,10 +107,10 @@
     "url": "https://www.thekaset.com",
     "icon": "http://www.google.com/s2/favicons?domain=https://www.thekaset.com",
     "slug": "the-kaset",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1309,
@@ -118,7 +118,9 @@
     "timeWeek": 2156,
     "timeMonth": 2127,
     "timeYear": 1352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-28": 1
+    }
   },
   {
     "name": "Tonkla Shaiyo",
@@ -391,7 +393,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
-    "uptimeYear": "81.87%",
+    "uptimeYear": "81.88%",
     "time": 191,
     "timeDay": 41,
     "timeWeek": 125,
@@ -448,18 +450,17 @@
     "icon": "http://tracker.ace-energy.co.th/favicon.ico",
     "slug": "gps-receiver-api",
     "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "96.10%",
-    "uptimeMonth": "91.12%",
-    "uptimeYear": "98.72%",
+    "uptime": "98.71%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "91.06%",
+    "uptimeYear": "98.71%",
     "time": 7257,
     "timeDay": 6679,
-    "timeWeek": 6619,
+    "timeWeek": 6583,
     "timeMonth": 7253,
     "timeYear": 7257,
     "dailyMinutesDown": {
-      "2023-07-28": 11,
       "2023-07-27": 99,
       "2023-07-26": 20,
       "2023-07-25": 51,
@@ -485,7 +486,7 @@
       "2023-07-05": 505,
       "2023-07-04": 314,
       "2023-07-03": 417,
-      "2023-07-02": 45
+      "2023-07-02": 83
     }
   },
   {
@@ -535,7 +536,7 @@
     "icon": "http://www.google.com/s2/favicons?domain=https://feedstockapp.saaa.co.th",
     "slug": "agro-shop",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
