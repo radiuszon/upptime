@@ -1,7 +1,7 @@
 url: http://tracker.ace-energy.co.th/receiver/api/v1/health
-status: up
-code: 200
-responseTime: 12841
-lastUpdated: 2023-08-01T08:53:18.971Z
+status: down
+code: 504
+responseTime: 15033
+lastUpdated: 2023-08-01T08:59:26.383Z
 startTime: Fri Dec 30 2022 09:38:44 GMT+0700 (Indochina Time)
 generator: Upptime <https://github.com/upptime/upptime>
